@@ -51,4 +51,3 @@ Start the development server with the command npm start.
 View in Browser
 Open your browser and navigate to http://localhost:3000/ to interact with the application.
 
-This React Chat App provides a robust and scalable solution for real-time messaging, with features designed to enhance user interaction and maintain data integrity.
